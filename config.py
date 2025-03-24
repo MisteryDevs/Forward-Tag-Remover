@@ -19,8 +19,8 @@ class API:
     ID = Telegram API ID from https://my.telegram.org
     """
 
-    HASH = os.environ.get("API_HASH", "")
-    ID = int(os.environ.get("API_ID", 0))
+    HASH = os.environ.get("API_HASH", "42a60d9c657b106370c79bb0a8ac560c")
+    ID = int(os.environ.get("API_ID","14050586"))
 
 
 class OWNER:
@@ -28,7 +28,7 @@ class OWNER:
     ID: Owner's user id, get it from @userinfobot
     """
 
-    ID = int(os.environ.get("OWNER", 0))
+    ID = int(os.environ.get("OWNER","5738579437"))
 
 
 class WEB:
