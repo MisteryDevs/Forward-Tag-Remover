@@ -47,7 +47,7 @@ python3 bot.py
 Deploy easily using these platforms:
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fprime-hritu%2FForward-Tag-Remover)  
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/prime-hritu/Forward-Tag-Remover)  
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/MisteryDevs/Forward-Tag-Remover)  
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?name=forward-tag-remover&repository=prime-hritu%2FForward-Tag-Remover&branch=main&type=git&env[TOKEN]=REPLACE_ME&env[OWNER]=REPLACE_ME&env[API_HASH]=REPLACE_ME&env[API_ID]=REPLACE_ME)
 
 ---
