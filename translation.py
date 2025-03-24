@@ -21,12 +21,6 @@ class INLINE:
                 InlineKeyboardButton(
                     TEXT.UPDATES_CHANNEL, url="https://t.me/Private_Bots"
                 ),
-            ],
-            [
-                InlineKeyboardButton(
-                    TEXT.SOURCE_CODE,
-                    url="https://github.com/prime-hritu/Forward-Tag-Remover",
-                ),
-            ],
+            ],
         ]
     )
